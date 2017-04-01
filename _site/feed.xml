@@ -3,11 +3,39 @@
   <channel>
     <title>Buffernihility</title>
     <description></description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 01 Apr 2017 02:12:39 +0800</pubDate>
-    <lastBuildDate>Sat, 01 Apr 2017 02:12:39 +0800</lastBuildDate>
-    <generator>Jekyll v3.4.3</generator>
+    <link>https://buffernihility.github.io/</link>
+    <atom:link href="https://buffernihility.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 01 Apr 2017 23:56:09 +0800</pubDate>
+    <lastBuildDate>Sat, 01 Apr 2017 23:56:09 +0800</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>为什么改掉capslock</title>
+        <description>&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#section&quot; id=&quot;markdown-toc-section&quot;&gt;改一下键位提升下幸福感&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;section&quot;&gt;改一下键位提升下幸福感&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;怎么改rekeymap.exe&lt;br /&gt;
+&lt;a href=&quot;https://www.microsoft.com/en-us/download/details.aspx?id=17657&quot;&gt;去巨硬网站下载&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;对于vimer&lt;br /&gt;
+capslock 与右ctrl交换&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Sat, 01 Apr 2017 22:06:05 +0800</pubDate>
+        <link>https://buffernihility.github.io/2017/04/01/how-to-programming/</link>
+        <guid isPermaLink="true">https://buffernihility.github.io/2017/04/01/how-to-programming/</guid>
+        
+        <category>开发工具</category>
+        
+        
+        <category>Coding</category>
+        
+        <category>Tool</category>
+        
+      </item>
     
   </channel>
 </rss>
