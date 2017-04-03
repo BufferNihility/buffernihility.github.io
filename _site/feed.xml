@@ -5,9 +5,35 @@
     <description></description>
     <link>https://buffernihility.github.io/</link>
     <atom:link href="https://buffernihility.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 04 Apr 2017 01:21:33 +0800</pubDate>
-    <lastBuildDate>Tue, 04 Apr 2017 01:21:33 +0800</lastBuildDate>
+    <pubDate>Tue, 04 Apr 2017 01:36:44 +0800</pubDate>
+    <lastBuildDate>Tue, 04 Apr 2017 01:36:44 +0800</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>为什么改掉capslock</title>
+        <description>&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#openstack--kubernates&quot; id=&quot;markdown-toc-openstack--kubernates&quot;&gt;从openstack 到 kubernates&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;openstack--kubernates&quot;&gt;从openstack 到 kubernates&lt;/h2&gt;
+&lt;blockquote&gt;
+
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Tue, 04 Apr 2017 01:31:00 +0800</pubDate>
+        <link>https://buffernihility.github.io/2017/04/04/%E4%BB%8Eopenstack%E5%88%B0kubernates/</link>
+        <guid isPermaLink="true">https://buffernihility.github.io/2017/04/04/%E4%BB%8Eopenstack%E5%88%B0kubernates/</guid>
+        
+        <category>云计算服务形式</category>
+        
+        
+        <category>Clound</category>
+        
+        <category>Docker</category>
+        
+        <category>Scaling</category>
+        
+      </item>
     
       <item>
         <title>为什么改掉capslock</title>
